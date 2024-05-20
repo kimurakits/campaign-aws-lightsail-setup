@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash
 
 # Become the root user (super user)
 sudo su -
